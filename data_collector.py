@@ -14,7 +14,7 @@ for label in labels:
     image_dir = os.path.join(image_path, label)
     os.makedirs(image_dir)
 
-    cap = cv2.VideoCapture(1)
+    cap = cv2.VideoCapture(0)
 
     print(f"Collecting images for {label}")
     time.sleep(5)
