@@ -20,3 +20,10 @@ conda create -n sign-dec python=3.7 -y
 ### Yolov5
 
 https://github.com/ultralytics/yolov5
+
+
+## Installation of yolov5 locally
+
+```bash
+pip install -r yolov5/requirements.txt
+```
