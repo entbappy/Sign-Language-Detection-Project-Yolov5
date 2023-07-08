@@ -13,3 +13,5 @@ conda create -n sign-dec python=3.7 -y
 1. https://github.com/heartexlabs/labelImg
 
 2. [exe](https://github.com/entbappy/Sign-Language-Generation-From-Video-using-YOLOV5/raw/master/Annotation%20Tool/labelImg.exe)
+
+3. [G-Drive](https://drive.google.com/drive/folders/18AIDI4pOAcYC-zSCPpYvRxWaydjOqS1W?usp=sharing)
